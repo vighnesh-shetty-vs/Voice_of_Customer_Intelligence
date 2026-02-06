@@ -25,23 +25,23 @@ This application leverages **Google's Gemini 1.5 Flash** (Large Language Model) 
 
 ### 1. Seamless Data Ingestion
 *The interface is designed for simplicity. Users can upload raw CSV/Excel files or generate a "Mock Holiday Crisis" dataset to test the tool's capabilities immediately.*
-![Data Ingestion](screenshots/run_analysis.png)
+![Data Ingestion](assets/run_analysis.png)
 
 ### 2. Executive Health Check
 *The dashboard provides an instant pulse on customer health. It calculates a dynamic **NPS (Net Promoter Score)** proxy and visualizes the split between positive, negative, and neutral feedback.*
-![Executive Dashboard](screenshots/analytics_dashborad_1.png)
+![Executive Dashboard](assets/analytics_dashborad_1.png)
 
 ### 3. Trend Analysis & Issue Detection
 *Static numbers don't tell the whole story. The **Time-Series Analysis** (left) detects anomalies, such as the sharp drop in sentiment shown below. The **Top Issues** chart (right) immediately pinpoints "Shipping" and "Operations" as the culprits behind the crash.*
-![Trend Analysis](screenshots/analytics_dashborad_2.png)
+![Trend Analysis](assets/analytics_dashborad_2.png)
 
 ### 4. Strategic Recommendations & Granular Filtering
 *This is where data becomes action. The AI reads every review and outputs a structured **"AI Action Plan"**. Users can use the global filters to isolate specific problems (e.g., filtering only for "Negative" reviews about "Shipping") to see exactly what needs fixing.*
-![Strategic Recommendations](screenshots/analytics_dashborad_3.png)
+![Strategic Recommendations](assets/analytics_dashborad_3.png)
 
 ### 5. Data Transparency
 *A dedicated view allows analysts to inspect the raw data alongside the AI's predicted topics and sentiments, ensuring full transparency and trust in the system.*
-![Raw Data View](screenshots/Data%20View.png)
+![Raw Data View](assets/Data%20View.png)
 
 ---
 
